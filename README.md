@@ -1,8 +1,7 @@
 
-It looks like you've built a simple linear regression model to predict sales based on advertising spending, explored feature selection using correlation, and even tried multifeature selection and Lasso regression for comparison. It's a solid piece of work! Writing a README for your project on GitHub is a great idea. Here's a quick template you can use:
-
 Advertising Sales Prediction
-Overview
+
+
 This project explores the relationship between advertising spending and product sales using machine learning techniques. A linear regression model is employed to predict sales based on different advertising channels, such as TV, radio, and newspaper.
 
 Contents
