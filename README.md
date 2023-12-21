@@ -1,5 +1,4 @@
 
-Absolutely, here's a revised version of the README file:
 
 Advertising Sales Prediction
 Predicting product sales based on advertising spend is essential for effective marketing. This project delves into advertising analytics, using machine learning to analyze the impact of TV, radio, and newspaper channels on sales. From initial data exploration to advanced techniques like Lasso regression, this project provides insights to optimize marketing strategies for improved sales outcomes.
